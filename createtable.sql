@@ -4,3 +4,4 @@ CREATE TABLE enseignant (
     prenom VARCHAR(20) NOT NULL,
     email VARCHAR(30) NOT NULL,
     bureau INT NOT NULL
+);
